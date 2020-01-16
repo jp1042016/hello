@@ -1,11 +1,12 @@
-/* "Hello World", My first program
+/* This code prints my name and major
 Name: Ben Rezac
 Date: 2020/01/14
 */
 #include <stdio.h>
 
 int main(void) {
-	printf("Hello World!\n");
+	printf("Ben Rezac\n");
+	printf("Electrical Engineering\n");
 	return 0;
 }
 
